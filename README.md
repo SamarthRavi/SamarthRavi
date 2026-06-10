@@ -9,7 +9,7 @@ Building real-world IoT solutions using ESP32, BLE, Firebase and Cloud Technolog
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="700">
+<img src="[https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif](https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif)" width="700">
 </p>
 
 ---
