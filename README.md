@@ -1,20 +1,20 @@
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzh2enptazZiaG1pa2F1aXJkb2x2bTE2bjEzYm5pem5kY2t2czZycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xuWkuYl33i28fIwkBM/giphy.gif" width="850">
-</p>
-
 <h1 align="center">Hi 👋, I'm Samarth Ravi</h1>
 
 <h3 align="center">
-IoT Developer • ESP32 Enthusiast • Embedded Systems Learner
+IoT Developer • ESP32 Engineer • Embedded Systems Builder
 </h3>
 
 <p align="center">
-I build cool things with ESP32, BLE and Cloud Technologies.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+Real-World+IoT+Solutions;ESP32+%7C+BLE+%7C+Firebase;Embedded+Systems+Developer;Always+Learning+Always+Building" />
+</p>
+
+<p align="center">
+<img src="YOUR_GIF_LINK_HERE" width="450">
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 🎓 B.Tech Computer Science Engineering (IoT) Student at Jain University
 
@@ -23,7 +23,7 @@ I build cool things with ESP32, BLE and Cloud Technologies.
 🔭 Currently Building
 
 - Smart IoT Attendance Systems
-- ESP32 Based Monitoring Solutions
+- ESP32 Monitoring Solutions
 - Real-Time Dashboards
 
 🌱 Currently Learning
@@ -39,7 +39,48 @@ Remote IoT / Embedded Systems Internship
 
 ---
 
-## ⚡ Tech Stack
+# 🔥 Featured Projects
+
+## 🎓 Smart IoT-Based Classroom Attendance System
+
+**ESP32 • BLE • Firebase Realtime Database**
+
+- Automated attendance using Bluetooth Low Energy
+- Real-time Firebase synchronization
+- Attendance analytics dashboard
+
+🔗 Repository:
+https://github.com/SamarthRavi/Smart-IoT-Attendance-System
+
+---
+
+## 🏠 OneRoof Real Estate Aggregator
+
+**React • TypeScript • Supabase • Tailwind CSS**
+
+- Property listing aggregation platform
+- Property search and filtering
+- Responsive modern UI
+
+🔗 Repository:
+https://github.com/SamarthRavi/OneRoof-Real-Estate-Aggregator
+
+---
+
+## 📊 Queue Monitoring System
+
+**JavaScript • HTML • CSS • Google Sheets**
+
+- Occupancy monitoring dashboard
+- Trend analysis and reporting
+- Real-time crowd analytics
+
+🔗 Repository:
+https://github.com/SamarthRavi/Queue-Monitoring-System
+
+---
+
+# ⚡ Tech Stack
 
 <p align="center">
 
@@ -59,61 +100,27 @@ Remote IoT / Embedded Systems Internship
 
 ---
 
-## 🧠 Developer Mindset
+# 🧠 Developer Mindset
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/PROBLEM%20SOLVING-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EMBEDDED%20SYSTEMS-red?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/CONTINUOUS%20LEARNING-84CC16?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PROBLEM%20SOLVING-blue?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/IOT%20INNOVATION-F97316?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CONTINUOUS%20LEARNING-green?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/BUILD%20%26%20EXPERIMENT-EF4444?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IOT%20INNOVATION-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/REALTIME%20SYSTEMS-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/BUILD%20%26%20EXPERIMENT-yellow?style=for-the-badge"/>
 
 </p>
 
 ---
 
-## 🔥 Featured Projects
-
-### 🎓 Smart IoT-Based Classroom Attendance System
-
-ESP32 • BLE • Firebase Realtime Database
-
-- Automated attendance using Bluetooth Low Energy
-- Real-time Firebase synchronization
-- Attendance analytics dashboard
-
-🔗 Repository: https://github.com/SamarthRavi/Smart-IoT-Attendance-System
-
----
-
-### 🏠 OneRoof Real Estate Aggregator
-
-React • TypeScript • Supabase • Tailwind CSS
-
-- Property listing aggregation platform
-- Search and filtering features
-- Responsive modern UI
-
-🔗 Repository: https://github.com/SamarthRavi/OneRoof-Real-Estate-Aggregator
-
----
-
-### 📊 Queue Monitoring System
-
-JavaScript • HTML • CSS • Google Sheets
-
-- Occupancy monitoring dashboard
-- Trend analysis and reporting
-- Real-time crowd analytics
-
-🔗 Repository: https://github.com/SamarthRavi/Queue-Monitoring-System
-
----
-
-## 📈 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=SamarthRavi&show_icons=true&theme=tokyonight"/>
@@ -125,7 +132,7 @@ JavaScript • HTML • CSS • Google Sheets
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=SamarthRavi&theme=tokyonight"/>
@@ -133,15 +140,7 @@ JavaScript • HTML • CSS • Google Sheets
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/SamarthRavi/SamarthRavi/output/github-contribution-grid-snake-dark.svg">
-</p>
-
----
-
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -154,12 +153,6 @@ JavaScript • HTML • CSS • Google Sheets
 </a>
 
 </p>
-
----
-
-## 💡 Favorite Quote
-
-> "The best way to predict the future is to build it."
 
 ---
 
