@@ -1,16 +1,18 @@
 <h1 align="center">Hi 👋, I'm Samarth Ravi</h1>
 
 <h3 align="center">
-IoT Developer • ESP32 Engineer • Embedded Systems Builder
+IoT Developer • ESP32 Engineer • Embedded Systems Learner
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+Real-World+IoT+Solutions;ESP32+%7C+BLE+%7C+Firebase;Embedded+Systems+Developer;Always+Learning+Always+Building" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Building+Real-World+IoT+Solutions;ESP32+%7C+BLE+%7C+Firebase;Always+Learning+Always+Building;Turning+Ideas+Into+IoT+Products" />
 </p>
 
 <p align="center">
-<img src="YOUR_GIF_LINK_HERE" width="450">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzh2enptazZiaG1pa2F1aXJkb2x2bTE2bjEzYm5pem5kY2t2czZycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xuWkuYl33i28fIwkBM/giphy.gif" width="450"/>
 </p>
+
+<hr>
 
 ---
 
@@ -156,4 +158,10 @@ https://github.com/SamarthRavi/Queue-Monitoring-System
 
 ---
 
-⭐ If you like my projects, consider giving them a star!
+<p align="center">
+<img src="https://img.shields.io/badge/⭐-Thanks_for_visiting_my_profile!-yellow?style=for-the-badge"/>
+</p>
+
+<h3 align="center">
+⭐ If you like my projects, consider giving them a star! ⭐
+</h3>
