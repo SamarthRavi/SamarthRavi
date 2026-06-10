@@ -1,15 +1,15 @@
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzh2enptazZiaG1pa2F1aXJkb2x2bTE2bjEzYm5pem5kY2t2czZycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xuWkuYl33i28fIwkBM/giphy.gif" width="850">
+</p>
+
 <h1 align="center">Hi 👋, I'm Samarth Ravi</h1>
 
 <h3 align="center">
-IoT Developer | ESP32 Enthusiast | Embedded Systems Learner
+IoT Developer • ESP32 Enthusiast • Embedded Systems Learner
 </h3>
 
 <p align="center">
-Building real-world IoT solutions using ESP32, BLE, Firebase and Cloud Technologies.
-</p>
-
-<p align="center">
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="700">
+I build cool things with ESP32, BLE and Cloud Technologies.
 </p>
 
 ---
@@ -43,19 +43,33 @@ Remote IoT / Embedded Systems Internship
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,firebase,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,firebase,git,github,vscode"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/ESP32-EF4444?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Bluetooth%20Low%20Energy-3B82F6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Firebase-6B7280?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Realtime%20Database-FACC15?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Supabase-4ADE80?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Bluetooth_Low_Energy-0082FC?style=for-the-badge"/>
+</p>
 
-<img src="https://img.shields.io/badge/Firebase-Realtime_Database-FFCA28?style=for-the-badge&logo=firebase"/>
+---
 
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase"/>
+## 🧠 Developer Mindset
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/PROBLEM%20SOLVING-0EA5E9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CONTINUOUS%20LEARNING-84CC16?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/IOT%20INNOVATION-F97316?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/BUILD%20%26%20EXPERIMENT-EF4444?style=for-the-badge"/>
 
 </p>
 
@@ -63,7 +77,7 @@ Remote IoT / Embedded Systems Internship
 
 ## 🔥 Featured Projects
 
-### 📡 Smart IoT-Based Classroom Attendance System
+### 🎓 Smart IoT-Based Classroom Attendance System
 
 ESP32 • BLE • Firebase Realtime Database
 
@@ -71,8 +85,7 @@ ESP32 • BLE • Firebase Realtime Database
 - Real-time Firebase synchronization
 - Attendance analytics dashboard
 
-🔗 Repository:
-https://github.com/SamarthRavi/Smart-IoT-Attendance-System
+🔗 Repository: https://github.com/SamarthRavi/Smart-IoT-Attendance-System
 
 ---
 
@@ -84,8 +97,7 @@ React • TypeScript • Supabase • Tailwind CSS
 - Search and filtering features
 - Responsive modern UI
 
-🔗 Repository:
-https://github.com/SamarthRavi/OneRoof-Real-Estate-Aggregator
+🔗 Repository: https://github.com/SamarthRavi/OneRoof-Real-Estate-Aggregator
 
 ---
 
@@ -97,19 +109,18 @@ JavaScript • HTML • CSS • Google Sheets
 - Trend analysis and reporting
 - Real-time crowd analytics
 
-🔗 Repository:
-https://github.com/SamarthRavi/Queue-Monitoring-System
+🔗 Repository: https://github.com/SamarthRavi/Queue-Monitoring-System
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=SamarthRavi&show_icons=true&theme=tokyonight"/>
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamarthRavi&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamarthRavi&layout=compact&theme=tokyonight"/>
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamarthRavi&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -117,22 +128,16 @@ https://github.com/SamarthRavi/Queue-Monitoring-System
 ## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SamarthRavi&theme=tokyonight"/>
-
+<img src="https://streak-stats.demolab.com?user=SamarthRavi&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🧠 Developer Mindset
+## 🐍 Contribution Snake
 
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-blue?style=for-the-badge)
-
-![Continuous Learning](https://img.shields.io/badge/Continuous_Learning-green?style=for-the-badge)
-
-![IoT Innovation](https://img.shields.io/badge/IoT_Innovation-orange?style=for-the-badge)
-
-![Build & Experiment](https://img.shields.io/badge/Build_&_Experiment-red?style=for-the-badge)
+<p align="center">
+<img src="https://raw.githubusercontent.com/SamarthRavi/SamarthRavi/output/github-contribution-grid-snake-dark.svg">
+</p>
 
 ---
 
@@ -140,12 +145,12 @@ https://github.com/SamarthRavi/Queue-Monitoring-System
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://linkedin.com/in/samarthravi">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:samarthravi1225@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -158,6 +163,4 @@ https://github.com/SamarthRavi/Queue-Monitoring-System
 
 ---
 
-<p align="center">
 ⭐ If you like my projects, consider giving them a star!
-</p>
