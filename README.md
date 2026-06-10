@@ -13,7 +13,7 @@ Building Real-World IoT Solutions using ESP32, BLE, Firebase and Cloud Technolog
 </p>
 
 <p align="center">
-<img src="YOUR_GIF_LINK_HERE" width="450">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzh2enptazZiaG1pa2F1aXJkb2x2bTE2bjEzYm5pem5kY2t2czZycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xuWkuYl33i28fIwkBM/giphy.gif" width="450">
 </p>
 
 ---
@@ -67,7 +67,7 @@ Building Cool Things
 
 $ looking_for
 IoT Internship
-
+```
 
 ---
 
